@@ -1,0 +1,32 @@
+Greatest of 3 numbers
+smallest of 3 numbers
+perform swapping of 2 numbers
+print numbers in ascending order
+print numbers in descending order
+print odd numbers and their count.
+print even numbers and their count.
+print 1st 100 odd number
+print 1st 100 even number
+print multiples of 3 from 1 to 100
+print 1-100 divisible by both 2 and 3
+print total of first 100 numbers
+Multiply first 100 numbers
+print any Multiplication table 
+print numbers 1 to 4 using break
+print numbers 1 to 10 except 5 using continue
+print last digit of a given number
+print second last digit of a given number 
+printing finonacci number
+printing factorial number
+printing prime numbers
+printing palindrome numbers
+printing armstrong numbers
+reverse a number in java
+printing ascii values from A to Z
+count the number of digits in a number
+sum the digits of a number
+reverse a number
+accept an integer and count the factors of the number
+
+
+
